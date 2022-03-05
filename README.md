@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. Welcome to Guo-Hua Wang's profile!
+
 
 ## 📊 Github stats
 
