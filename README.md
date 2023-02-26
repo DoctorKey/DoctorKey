@@ -38,6 +38,46 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DoctorKey/C-3PO?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DoctorKey/C-3PO?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><b>2020.8-2020.11</b></td>
+      <td><a href="https://github.com/DoctorKey/DIGIX_2020_B_image_retrieval"><b>DIGIX_2020_B_image_retrieval</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DoctorKey/DIGIX_2020_B_image_retrieval?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DoctorKey/DIGIX_2020_B_image_retrieval?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DoctorKey/DIGIX_2020_B_image_retrieval?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DoctorKey/DIGIX_2020_B_image_retrieval?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><b>2020.1-2020.8</b></td>
+      <td><a href="https://github.com/DoctorKey/LSHFM.singleclassification"><b>LSHFM.singleclassification</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DoctorKey/LSHFM.singleclassification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DoctorKey/LSHFM.singleclassification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DoctorKey/LSHFM.singleclassification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DoctorKey/LSHFM.singleclassification?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><b>2020.1-2020.8</b></td>
+      <td><a href="https://github.com/DoctorKey/LSHFM.multiclassification"><b>LSHFM.multiclassification</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DoctorKey/LSHFM.multiclassification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DoctorKey/LSHFM.multiclassification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DoctorKey/LSHFM.multiclassification?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DoctorKey/LSHFM.multiclassification?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><b>2020.1-2020.8</b></td>
+      <td><a href="https://github.com/DoctorKey/LSHFM.detection"><b>LSHFM.detection</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DoctorKey/LSHFM.detection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DoctorKey/LSHFM.detection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DoctorKey/LSHFM.detection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DoctorKey/LSHFM.detection?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><b>2019.1-2019.12</b></td>
+      <td><a href="https://github.com/DoctorKey/R2D2.pytorch"><b>R2D2.pytorch</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DoctorKey/R2D2.pytorch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DoctorKey/R2D2.pytorch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DoctorKey/R2D2.pytorch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DoctorKey/R2D2.pytorch?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
