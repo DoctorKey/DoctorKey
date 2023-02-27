@@ -1,5 +1,22 @@
 ### Hi there 👋. Welcome to Guo-Hua Wang's profile!
 
+Guo-Hua Wang is currently a researcher and developer for *deep learning*. He focuses on:
+
+- **Multi-model Learning**: 
+  - Knowledge Distillation: [`LSHFM.singleclassification`](https://github.com/DoctorKey/LSHFM.singleclassification), [`LSHFM.multiclassification`](https://github.com/DoctorKey/LSHFM.multiclassification), [`LSHFM.detection`](https://github.com/DoctorKey/LSHFM.detection)
+  - Model Compression/Acceleration.
+- **Few-label Learning**: 
+  - Semi-Supervised Learning: [`R2D2.pytorch`](https://github.com/DoctorKey/R2D2.pytorch)
+  - Few-shot Learning.
+- **Image Related Tasks**:
+  - Image Classification: [`LSHFM.singleclassification`](https://github.com/DoctorKey/LSHFM.singleclassification), [`LSHFM.multiclassification`](https://github.com/DoctorKey/LSHFM.multiclassification)
+  - Object Detection: [`LSHFM.detection`](https://github.com/DoctorKey/LSHFM.detection)
+  - Semantic Segmentation: [`C-3PO`](https://github.com/DoctorKey/C-3PO)
+  - Change Detection: [`C-3PO`](https://github.com/DoctorKey/C-3PO)
+  - Image Retrieval: [`DIGIX_2020_B_image_retrieval`](https://github.com/DoctorKey/DIGIX_2020_B_image_retrieval), [`CBIR`](https://github.com/DoctorKey/CBIR), [`image_retrieval_demo`](https://github.com/DoctorKey/image_retrieval_demo)
+  - Image Compression: [`DCVC`](https://github.com/microsoft/DCVC)
+
+
 ## 💼 Projects
 
 <table>
