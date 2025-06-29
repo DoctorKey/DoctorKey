@@ -2,6 +2,9 @@
 
 Guo-Hua Wang is currently a researcher and developer for *deep learning*. He focuses on:
 
+- **Multimodal Model**:
+  - Unified model: [`Ovis-U1`](https://github.com/AIDC-AI/Ovis-U1)
+  - Text-to-Image: [`Chats`](https://github.com/AIDC-AI/CHATS)
 - **Multi-model Learning**: 
   - Knowledge Distillation: [`LSHFM.singleclassification`](https://github.com/DoctorKey/LSHFM.singleclassification), [`LSHFM.multiclassification`](https://github.com/DoctorKey/LSHFM.multiclassification), [`LSHFM.detection`](https://github.com/DoctorKey/LSHFM.detection)
   - Model Compression/Acceleration: [`Practise`](https://github.com/DoctorKey/Practise)
@@ -31,6 +34,22 @@ Guo-Hua Wang is currently a researcher and developer for *deep learning*. He foc
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b>2025.4-2025.6</b></td>
+      <td><a href="https://github.com/AIDC-AI/Ovis-U1"><b>Ovis-U1</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIDC-AI/Ovis-U1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIDC-AI/Ovis-U1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AIDC-AI/Ovis-U1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AIDC-AI/Ovis-U1?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><b>2024.11-2025.3</b></td>
+      <td><a href="https://github.com/AIDC-AI/CHATS"><b>CHATS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIDC-AI/CHATS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIDC-AI/CHATS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AIDC-AI/CHATS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AIDC-AI/CHATS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><b>2022.11-2023.3</b></td>
       <td><a href="https://github.com/DoctorKey/Practise"><b>Practise</b></a></td>
@@ -116,7 +135,8 @@ Guo-Hua Wang is currently a researcher and developer for *deep learning*. He foc
   </tr>
 </table>
 
-[![Guo-Hua Wang's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DoctorKey&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Guo-Hua Wang's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorKey&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **DoctorKey/DoctorKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
