@@ -4,7 +4,7 @@ Guo-Hua Wang is currently a researcher and developer for *deep learning*. He foc
 
 - **Multimodal Model**:
   - Unified model: [`Ovis-U1`](https://github.com/AIDC-AI/Ovis-U1)
-  - Text-to-Image: [`Chats`](https://github.com/AIDC-AI/CHATS)
+  - Text-to-Image: [`Chats`](https://github.com/AIDC-AI/CHATS), [`TeEFusion`](https://github.com/AIDC-AI/TeEFusion)
 - **Multi-model Learning**: 
   - Knowledge Distillation: [`LSHFM.singleclassification`](https://github.com/DoctorKey/LSHFM.singleclassification), [`LSHFM.multiclassification`](https://github.com/DoctorKey/LSHFM.multiclassification), [`LSHFM.detection`](https://github.com/DoctorKey/LSHFM.detection)
   - Model Compression/Acceleration: [`Practise`](https://github.com/DoctorKey/Practise)
@@ -41,6 +41,14 @@ Guo-Hua Wang is currently a researcher and developer for *deep learning*. He foc
       <td><img alt="Forks" src="https://img.shields.io/github/forks/AIDC-AI/Ovis-U1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/AIDC-AI/Ovis-U1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AIDC-AI/Ovis-U1?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><b>2025.1-2025.3</b></td>
+      <td><a href="https://github.com/AIDC-AI/TeEFusion"><b>TeEFusion</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIDC-AI/TeEFusion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIDC-AI/TeEFusion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AIDC-AI/TeEFusion?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AIDC-AI/TeEFusion?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><b>2024.11-2025.3</b></td>
