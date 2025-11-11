@@ -4,7 +4,7 @@ Guo-Hua Wang is currently a researcher and developer for *deep learning*. He foc
 
 - **Multimodal Model**:
   - Unified model: [`Ovis-U1`](https://github.com/AIDC-AI/Ovis-U1)
-  - Text-to-Image: [`Chats`](https://github.com/AIDC-AI/CHATS), [`TeEFusion`](https://github.com/AIDC-AI/TeEFusion)
+  - Text-to-Image: [`Chats`](https://github.com/AIDC-AI/CHATS), [`TeEFusion`](https://github.com/AIDC-AI/TeEFusion), [`Diffusion-SDPO`](https://github.com/AIDC-AI/Diffusion-SDPO)
 - **Multi-model Learning**: 
   - Knowledge Distillation: [`LSHFM.singleclassification`](https://github.com/DoctorKey/LSHFM.singleclassification), [`LSHFM.multiclassification`](https://github.com/DoctorKey/LSHFM.multiclassification), [`LSHFM.detection`](https://github.com/DoctorKey/LSHFM.detection)
   - Model Compression/Acceleration: [`Practise`](https://github.com/DoctorKey/Practise)
@@ -34,6 +34,14 @@ Guo-Hua Wang is currently a researcher and developer for *deep learning*. He foc
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b>2025.7-2025.11</b></td>
+      <td><a href="https://github.com/AIDC-AI/Diffusion-SDPO"><b>Diffusion-SDPO</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIDC-AI/Diffusion-SDPO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIDC-AI/Diffusion-SDPO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AIDC-AI/Diffusion-SDPO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AIDC-AI/Diffusion-SDPO?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><b>2025.4-2025.6</b></td>
       <td><a href="https://github.com/AIDC-AI/Ovis-U1"><b>Ovis-U1</b></a></td>
